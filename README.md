@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **roberttruong247@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AS2rWXfDlaxyp9M9onMs7jYC4lUPog-s/view?usp=sharing](https://drive.google.com/file/d/1AS2rWXfDlaxyp9M9onMs7jYC4lUPog-s/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1AS2rWXfDlaxyp9M9onMs7jYC4lUPog-s/view?usp=sharing)
 
 - ⚡ Fun fact **I am an extrovert and very sociable**
 
