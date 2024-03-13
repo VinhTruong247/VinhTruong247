@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Private Facility Booking App](https://github.com/VinhTruong247/Private-Facility-Booking-App)
 
-- 🌱 I’m currently learning **ReactJs, TypeScript and C#**
+- 🌱 I’m currently learning **ReactJs, TypeScript**
 
 - 📫 How to reach me **roberttruong247@gmail.com**
 
