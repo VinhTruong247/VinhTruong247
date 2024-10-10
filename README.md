@@ -1,7 +1,7 @@
 <h1 align="center">Ola 👋, I'm Robert</h1>
 <h3 align="center">A passionate frontend developer in ReactJS and vanilla HTML</h3>
 
-- 🔭 I’m currently working on [Private Facility Booking App](https://github.com/VinhTruong247/Private-Facility-Booking-App)
+- 🔭 I’m currently working on [Capstone Project & Mobile List App](https://github.com/VinhTruong247/mobile-fav-list)
 
 - 🌱 I’m currently learning **ReactJs, TypeScript**
 
