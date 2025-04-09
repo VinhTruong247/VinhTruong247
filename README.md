@@ -1,5 +1,5 @@
 <h1 align="center">Ola 👋, I'm Robert</h1>
-<h3 align="center">A passionate frontend developer in ReactJS and vanilla HTML</h3>
+<h3 align="center">A passionate frontend developer in ReactJS</h3>
 
 - 🔭 I’m currently working on [**ChurchScheduleApp**](https://github.com/VinhTruong247/ChurchScheduleApp)
 
